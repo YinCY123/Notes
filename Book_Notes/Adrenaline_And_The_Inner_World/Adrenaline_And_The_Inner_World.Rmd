@@ -1,0 +1,61 @@
+---
+title: "Adrenaline_And_The_Inner_World"
+author: "YinCY"
+date: "2023-03-26"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Preface
+- Adrenaline was the first hormone ever to be identified and produced in a laboratory.
+
+- The plasma of healthy humans at rest contains renarkably low levels of adrenaline - a few millions of a million of a gram per milliliter.  
+
+- Scientific integrative medicine is not a displine, a group of disorders, or a method of treatment but an approach, a way of thinking. 
+
+- For a century researchers and laypeople alike have viewed adrenaline as the “ﬁght or ﬂight” hormone, important in primitive emergencies but not in everyday life. In fact, adrenaline and its family are essential not only in emergencies but also for the continual, rapid adjustments required to tolerate even mundane stresses, such as simply standing up or walking out into the chilly outdoors.  
+
+
+# The Inner world
+- Clinicians rarely cure; they manage. They exploit negative feedback loops and attempt to forestall or counter positive feedback loops.
+
+## The Seed and Soil
+The microbe is nothing: the soil is everything.  
+
+## Cannon's Canons
+In a series of magnificent experiments over about a quarter century, Cannon demonstrated for the first time the critical role that adrenaline plays in maintaining the constancy of the inner world.  
+
+Cannon introduced and popularized three ideas: homeostasis, fight-or-flight response, and the sympathoadrenal system.  
+
+- Adrenaline constricts blood vessels in the skin and promotes clotting, both effects would minimize blood loss from physical trauma.  
+
+- Adrenaline levels approximately double just by a person's standing up, and even a mild fall in the blood glucose level stimulates adrenaline release.  
+
+
+## The Comfort Level in Building 10
+- As long as the number of negative effects in the loop were odd, the level of the inside temperature, the monitored variable, would reach a stable value.
+
+- Positive feedback loop are inherently unstable.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
