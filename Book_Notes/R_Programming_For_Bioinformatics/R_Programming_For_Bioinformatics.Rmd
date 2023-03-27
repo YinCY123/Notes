@@ -1,0 +1,23 @@
+---
+title: "R_Programming_For_Bioinformatics"
+author: "yincy"
+date: "2023-03-25"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```
+Author: Robert Gentleman
+Publication date: 
+```
+
+When R is started, a workspace is created and that workspace is where the user creates and manipulates variables. This workspace is an environment, and an environment is a set of
+bindings of names, or symbols, to values. The top-level workspace can be
+accessed through its name, which is `.GlobalEnv`.
+
+Assignment creates a binding between a symbol and a value, in a particular environment. 
+
+
