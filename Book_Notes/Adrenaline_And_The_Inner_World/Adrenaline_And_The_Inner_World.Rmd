@@ -41,6 +41,18 @@ Cannon introduced and popularized three ideas: homeostasis, fight-or-flight resp
 - Positive feedback loop are inherently unstable.  
 
 
+## An Amazing Cooking Experiment
+- Losing body heat by evaporative sweat loss requires sweating, and stimulation of a particular component of the automatic nervous system, called the sympathetic cholinergic system (SCS), stimulates thermoregulatory sweating.  
+
+- Inhibition of nerves supplying the skin in another component of the automatic nervous system, the sympathetic noradrenergic system (SNS), relaxes the local blood vessels, distributing the blood to the skin surface.
+
+- All systems regulating the inner world of higher animals include at least one negative feedback loop.
+
+
+## Snak That Faint?
+In evolution, the more important and long standing the requirement for regulation of a particular monitored variable, the more likely that multiple effectors controlling levels of that monitored variable have evolved.
+
+
 
 
 
